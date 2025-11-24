@@ -340,7 +340,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  
 ## Output  :
 
-![Uploading image.png…]()
+<img width="1032" height="418" alt="image" src="https://github.com/user-attachments/assets/36b1c0f6-5539-4fd0-ba8a-0fd29b173192" />
+
 
 
 ![WhatsApp Image 2025-11-04 at 09 18 27](https://github.com/user-attachments/assets/b5d817fc-44f2-45ef-ad54-67b7aabc2dc1)
